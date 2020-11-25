@@ -6,6 +6,8 @@
 
 您可以阅读[涂鸦官方文档](https://developer.tuya.com/cn/docs/iot)以了解更多信息。
 
+## 注意：当前仓库将会废弃，新的涂鸦 Github 仓库地址参见：[tuya/tuya-panel-demo](https://github.com/tuya/tuya-panel-demo)
+
 ## 前置条件
 
 - nodejs 8+
