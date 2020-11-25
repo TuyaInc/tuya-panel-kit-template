@@ -6,6 +6,8 @@ English | [简体中文](./README-zh_CN.md)
 
 You can read the [official documents](https://developer.tuya.com/en/docs/iot) for more information.
 
+## Note: This repository will be deprecated soon, please refer to the new repository in the Tuya Github Organization: [tuya/tuya-panel-demo](https://github.com/tuya/tuya-panel-demo)
+
 ## Prerequisites
 
 - nodejs 8+
